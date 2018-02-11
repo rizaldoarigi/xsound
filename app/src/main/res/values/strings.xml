@@ -3,7 +3,7 @@
 
     <string name="nav_library">Songs</string>
     <string name="nav_playlist">Playlists</string>
-    <string name="nav_queue">Song Queue</string>
+    <string name="nav_queue">Playing Queue</string>
     <string name="nav_now_playing">Now Playing</string>
     <string name="nav_settings">Settings</string>
     <string name="nav_about_us">About Us</string>
